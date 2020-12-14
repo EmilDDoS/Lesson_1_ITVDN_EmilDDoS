@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson_1_ITVDN_EmilDDoS</string>
+    <string name="say_hello">Say hello</string>
+    <string name="hello_world">Hello world!!!</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+</resources>
